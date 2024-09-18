@@ -43,6 +43,7 @@ from mergekit.merge_methods import MergeMethod
 from mergekit.metric_methods import MetricMethod
 from mergekit.options import MergeOptions
 from mergekit.tokenizer import BuildTokenizer, PermutedEmbeddings
+from mergekit.tokenizer import BuildTokenizer, PermutedEmbeddings
 
 
 class MergePlanner:
